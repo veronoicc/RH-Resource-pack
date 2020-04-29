@@ -1,5 +1,8 @@
 {
-"m1":{"sounds":["1"]},
-"m2":{"sounds":["2"]},
-"mn1":{"sounds":["3"]}
+"nm1":{"sounds":["nm1"]},
+"nm2":{"sounds":["nm2"]},
+"mm1":{"sounds":["mm1"]},
+"nmm1":{"sounds":["nmm1"]},
+"nmm2":{"sounds":["nmm2"]},
+"music1":{"sounds":["music1"]}
 }
